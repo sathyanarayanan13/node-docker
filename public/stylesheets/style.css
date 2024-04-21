@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+.row {
+    margin: 0;
+    flex-wrap: nowrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.table {
+    text-align: center;
+}
